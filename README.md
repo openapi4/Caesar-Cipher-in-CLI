@@ -30,10 +30,14 @@ This Python script implements a Caesar cipher, a basic encryption technique. The
 
 **Example**
    ```bash
-   Enter the text to encrypt: Hello World!
-   Enter the shift value: 3
-   Encrypted text: Khoor Zruog!
-   Decrypted text: Hello World!
+   Type 'encode' to encrypt, type 'decode' to decrypt:
+   encode
+   Type your message:
+   Hello World!
+   Type the key (shift number):
+   3
+   Here&apos;s the encoded result: khoor zruog!
+   With key = 3
    ```
 
 ## Contributing
