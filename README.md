@@ -36,7 +36,7 @@ This Python script implements a Caesar cipher, a basic encryption technique. The
    Hello World!
    Type the key (shift number):
    3
-   Here&apos;s the encoded result: khoor zruog!
+   Here is the encoded result: khoor zruog!
    With key = 3
    ```
 

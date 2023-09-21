@@ -21,7 +21,7 @@ def caesar(start_text, shift_amount, cipher_direction):
             new_position = position + shift_amount
             end_text += alphabet[new_position]
 
-    print(f"Here's the {cipher_direction}d result: {end_text}\nWith key = {user_shift}")
+    print(f"Here is the {cipher_direction}d result: {end_text}\nWith key = {user_shift}")
 
 
 direction = input("Type 'encode' to encrypt, type 'decode' to decrypt:\n").lower()
